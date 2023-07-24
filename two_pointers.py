@@ -25,6 +25,7 @@ def find_pairs_with_difference(arr, k):
     return result_list
 
 
+arr = [2, 34, 65, 64, 87, 34, 32]
 
 print(find_pairs_with_difference(arr=arr, k =32))
     
